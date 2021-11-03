@@ -14,8 +14,8 @@ public class Task9 {
 				min = array[i];
 			}
 		}
-		System.out.println("largest number in array= " + max);
-		System.out.println("least number in array= " + min);
+		System.out.println("Max number in array= " + max);
+		System.out.println("Min number in array= " + min);
 	}
 
 }
