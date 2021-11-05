@@ -21,7 +21,7 @@ public class Task2 {
 		System.out.println("___________________________________");
 		for (int[] num : numbers) {
 			for (int n : num) {
-				if (n % 2 == 0) {
+				if (n % 2 != 0) {
 					System.out.print(n + " ");
 				}
 			}
